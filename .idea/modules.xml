@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/lanboo-all-pro.iml" filepath="$PROJECT_DIR$/.idea/lanboo-all-pro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharding/sharding.iml" filepath="$PROJECT_DIR$/sharding/sharding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharding/sharding-common/shardingcommon.iml" filepath="$PROJECT_DIR$/sharding/sharding-common/shardingcommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharding/sharding-dao/shardingdao.iml" filepath="$PROJECT_DIR$/sharding/sharding-dao/shardingdao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharding/sharding-service/shardingservice.iml" filepath="$PROJECT_DIR$/sharding/sharding-service/shardingservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharding/sharding-web/shardingweb.iml" filepath="$PROJECT_DIR$/sharding/sharding-web/shardingweb.iml" />
+    </modules>
+  </component>
+</project>
